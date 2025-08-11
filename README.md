@@ -8,7 +8,7 @@ Hi, I'm Michael Savin 👋
 
 ## 🚀 Featured Projects
 
-### [Mortgage Loan Approval Prediction](https://github.com/Savin97/Mortgage-Loan-Approval-Prediction)
+### [Mortgage Loan Approval Prediction Model](https://github.com/Savin97/Mortgage-Loan-Approval-Prediction-Model)
 Binary classification model predicting mortgage loan approvals based on applicant data.  
 **Tech:** Python, scikit-learn, Pandas, NumPy, Matplotlib  
 - Preprocessed and cleaned dataset (missing values, outliers, categorical encoding)  
