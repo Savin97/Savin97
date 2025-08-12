@@ -18,12 +18,23 @@ Binary classification model predicting mortgage loan approvals based on applican
 
 ---
 
-### [Image Classification with Swin Transformer](https://github.com/Savin97/Swin-Transformer-Image-Classification)
-Transfer learning on Tiny ImageNet using a pre-trained Swin Transformer model.  
-**Tech:** Python, PyTorch, Hugging Face Transformers, Datasets  
-- Preprocessed and augmented images using Hugging Face `datasets`  
-- Fine-tuned the Swin Transformer for improved classification  
-- Visualized predictions for randomly selected samples  
+### [Job Candidate Suitability Prediction Model](https://github.com/Savin97/Job-Candidate-Suitability-Prediction-Model.git)
+Built and compared classification models (Logistic Regression, KNN, SVM, Random Forest, AdaBoost) for predicting categorical labels from tabular data
+**Tech:** Python, scikit-learn, Pandas, Matplotlib  
+- Preprocessed and cleaned dataset (missing values, outliers, categorical encoding)  
+- Conducted EDA and feature selection using statistical tests  
+- Trained Logistic Regression, KNN, Random Forest, and AdaBoost  
+- Evaluated models with accuracy, ROC AUC, and confusion matrices
+
+---
+
+### [Neural Machine German Translation with Transformers](https://github.com/Savin97/Neural-Machine-German-Translation-with-Transformers.git)
+Implemented a sequence-to-sequence German-English translation model
+**Tech:** PyTorch | SpaCy | Hugging Face Datasets
+- Tokenized and preprocessed bilingual dataset for training
+- Built encoder-decoder architecture using Transformers
+- Tuned hyperparameters (batch size, hidden layer size, learning rate)
+- Evaluated using BLEU score and qualitative analysis of translation outputss  
 
 ---
 
@@ -38,9 +49,9 @@ Machine learning–driven decision support system for portfolio managers.
 
 ## 🛠 Skills
 **Languages & Tools:** Python, C, Java, JavaScript, React, SQL, Git, AWS  
-**Data Science & ML:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch, Hugging Face Transformers, NLP  
+**Data Science & ML:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch, Hugging Face Transformers  
 **Databases:** Microsoft SQL Server  
-**Other:** Tableau, EDA, Statistical Analysis, Presentation Skills  
+**Other:** EDA, Statistical Analysis, Presentation Skills  
 
 ---
 
