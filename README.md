@@ -1,12 +1,23 @@
 Hi, I'm Michael Savin 👋
 
 🎓 B.Sc. Digital Sciences graduate from Tel Aviv University  
-🤖 Specializing in Machine Learning, Deep Learning, and Data Analysis  
-📊 Skilled in Python, scikit-learn, PyTorch, SQL, Pandas and NumPy
+🤖 Specializing in Data Analysis, Machine Learning
+📊 Skilled in Python, Pandas, NumPy. scikit-learn, SQL
 
 ---
 
 ## 🚀 Featured Projects
+
+---
+
+### [Stock Earnings Risk Prediction System (In Progress)](https://github.com/Savin97/Stock-Earnings-Risk-Prediction)
+Machine learning–driven decision support system for portfolio managers.  
+**Tech:** Python, scikit-learn, Pandas, NumPy, yfinance, Alpha Vantage API, NLP (spaCy/NLTK), Tableau  
+- Building classification & regression models to predict direction/magnitude of post-earnings stock price moves  
+- Integrating market features with sentiment analysis from earnings call transcripts  
+- Designing dashboards to visualize predictions, sector trends, and anomalies
+
+---
 
 ### [Mortgage Loan Approval Prediction Model](https://github.com/Savin97/Mortgage-Loan-Approval-Prediction-Model)
 Binary classification model predicting mortgage loan approvals based on applicant data.  
@@ -35,15 +46,6 @@ Implemented a sequence-to-sequence German-English translation model
 - Built encoder-decoder architecture using Transformers
 - Tuned hyperparameters (batch size, hidden layer size, learning rate)
 - Evaluated using BLEU score and qualitative analysis of translation outputss  
-
----
-
-### [Stock Earnings Risk Prediction System (In Progress)](https://github.com/Savin97/Stock-Earnings-Risk-Prediction)
-Machine learning–driven decision support system for portfolio managers.  
-**Tech:** Python, scikit-learn, Pandas, NumPy, yfinance, Alpha Vantage API, NLP (spaCy/NLTK), Tableau  
-- Building classification & regression models to predict direction/magnitude of post-earnings stock price moves  
-- Integrating market features with sentiment analysis from earnings call transcripts  
-- Designing dashboards to visualize predictions, sector trends, and anomalies  
 
 ---
 
