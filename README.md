@@ -10,12 +10,22 @@ Hi, I'm Michael Savin 👋
 
 ---
 
-### [Stock Earnings Risk Prediction System (In Progress)](https://github.com/Savin97/Stock-Earnings-Risk-Prediction)
-Machine learning–driven decision support system for portfolio managers.  
-**Tech:** Python, scikit-learn, Pandas, NumPy, yfinance, Alpha Vantage API, NLP (spaCy/NLTK), Tableau  
-- Building classification & regression models to predict direction/magnitude of post-earnings stock price moves  
-- Integrating market features with sentiment analysis from earnings call transcripts  
-- Designing dashboards to visualize predictions, sector trends, and anomalies
+### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/public-risk-engine.git)
+(Python / ML / Financial Data)
+Stocks react unpredictably to earnings announcements. The goal of this project is to analyze historical earnings data, compute engineered signals, and identify statistical patterns in post-earnings price behavior.
+The purpose was to understand behavioral patterns around earnings announcements.
+I structured the code as a production-style package with separate modules for ingestion, feature engineering, merging, configuration, and output.
+It’s fully reproducible and extendable.
+**Tech:** Python, scikit-learn, Pandas, NumPy, APIs, NLP (spaCy/NLTK), Tableau 
+
+- Multi-window return & volatility calculations
+- Drift, momentum, and statistical feature engineering
+- Surprise bucketing + direction classification
+- Rolling frequency analysis
+  
+- Modular pipeline architecture
+- Ingestion + cleaning + transformation + output
+- Configurable & production-style code design
 
 ---
 
@@ -50,10 +60,10 @@ Implemented a sequence-to-sequence German-English translation model
 ---
 
 ## 🛠 Skills
-**Languages & Tools:** Python, C, Java, JavaScript, React, SQL, Git, AWS  
-**Data Science & ML:** scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, PyTorch, Hugging Face Transformers  
+**Languages & Tools:** Python, C, React, SQL, Git, AWS  
+**Data Science & ML:** scikit-learn, Pandas, NumPy, Matplotlib  
 **Databases:** Microsoft SQL Server  
-**Other:** EDA, Statistical Analysis, Presentation Skills  
+**Other:** Exploratory Data Analysis, Statistical Analysis, Presentation Skills  
 
 ---
 
