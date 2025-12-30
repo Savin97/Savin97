@@ -1,8 +1,8 @@
 Hi, I'm Michael Savin 👋
 
-🎓 B.Sc. Digital Sciences graduate from Tel Aviv University  
-🤖 Specializing in Data Analysis, Machine Learning
-📊 Skilled in Python, Pandas, NumPy. scikit-learn, SQL
+🎓 B.Sc. in Digital Sciences — Tel Aviv University  
+🤖 Data Analysis & Machine Learning  
+🐍 Python • Pandas • NumPy • scikit-learn • SQL
 
 ---
 
@@ -11,21 +11,30 @@ Hi, I'm Michael Savin 👋
 ---
 
 ### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/public-risk-engine.git)
-(Python / ML / Financial Data)
-Stocks react unpredictably to earnings announcements. The goal of this project is to analyze historical earnings data, compute engineered signals, and identify statistical patterns in post-earnings price behavior.
-The purpose was to understand behavioral patterns around earnings announcements.
-I structured the code as a production-style package with separate modules for ingestion, feature engineering, merging, configuration, and output.
-It’s fully reproducible and extendable.
-**Tech:** Python, scikit-learn, Pandas, NumPy, APIs, NLP (spaCy/NLTK), Tableau 
 
-- Multi-window return & volatility calculations
-- Drift, momentum, and statistical feature engineering
-- Surprise bucketing + direction classification
-- Rolling frequency analysis
-  
-- Modular pipeline architecture
-- Ingestion + cleaning + transformation + output
-- Configurable & production-style code design
+Python • Data Engineering • ML • Financial Data
+
+Public/open-core version of a proprietary analytics engine I built to analyze how stocks behave around earnings.
+It ingests historical earnings + price data, engineers risk & behavior features, and identifies patterns in post-earnings reactions.
+
+I structured it like a production system — modular pipeline, config-driven processing, reproducible outputs, and a Streamlit dashboard UI.
+
+Tech: Python, Pandas, NumPy, scikit-learn, APIs, Streamlit, Tableau
+
+Highlights
+
+- Multi-window return & volatility metrics
+
+- Drift, momentum & statistical earnings-behavior features
+
+- Surprise bucketing & direction classification
+
+- Rolling frequency & stability analysis
+
+- Clean modular architecture (ingestion → features → scoring → output)
+
+
+🔐 Proprietary feature engineering & scoring logic is intentionally omitted in the public version.
 
 ---
 
