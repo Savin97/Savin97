@@ -10,7 +10,7 @@ Hi, I'm Michael Savin 👋
 
 ---
 
-### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/public-risk-engine.git)
+### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/public-risk-engine.git) 🔗
 
 Python • Data Engineering • ML • Financial Data
 
@@ -38,7 +38,7 @@ Highlights
 
 ---
 
-### [Mortgage Loan Approval Prediction Model](https://github.com/Savin97/Mortgage-Loan-Approval-Prediction-Model)
+### [Mortgage Loan Approval Prediction Model](https://github.com/Savin97/Mortgage-Loan-Approval-Prediction-Model) 🔗
 Binary classification model predicting mortgage loan approvals based on applicant data.  
 **Tech:** Python, scikit-learn, Pandas, NumPy, Matplotlib  
 - Preprocessed and cleaned dataset (missing values, outliers, categorical encoding)  
@@ -48,7 +48,7 @@ Binary classification model predicting mortgage loan approvals based on applican
 
 ---
 
-### [Job Candidate Suitability Prediction Model](https://github.com/Savin97/Job-Candidate-Suitability-Prediction-Model.git)
+### [Job Candidate Suitability Prediction Model](https://github.com/Savin97/Job-Candidate-Suitability-Prediction-Model.git) 🔗
 Built and compared classification models (Logistic Regression, KNN, SVM, Random Forest, AdaBoost) for predicting categorical labels from tabular data
 **Tech:** Python, scikit-learn, Pandas, Matplotlib  
 - Preprocessed and cleaned dataset (missing values, outliers, categorical encoding)  
@@ -58,7 +58,7 @@ Built and compared classification models (Logistic Regression, KNN, SVM, Random 
 
 ---
 
-### [Neural Machine German Translation with Transformers](https://github.com/Savin97/Neural-Machine-German-Translation-with-Transformers.git)
+### [Neural Machine German Translation with Transformers](https://github.com/Savin97/Neural-Machine-German-Translation-with-Transformers.git) 🔗
 Implemented a sequence-to-sequence German-English translation model
 **Tech:** PyTorch | SpaCy | Hugging Face Datasets
 - Tokenized and preprocessed bilingual dataset for training
