@@ -10,7 +10,7 @@ Hi, I'm Michael Savin 👋
 
 ---
 
-### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/public-risk-engine.git) 🔗
+### [Earnings-Based Stock Reaction Modeling System](https://github.com/Savin97/Project-Files.git) 🔗
 
 Python • Data Engineering • ML • Financial Data
 
